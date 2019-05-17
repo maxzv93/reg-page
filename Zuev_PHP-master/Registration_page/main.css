@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin:  0;
+    box-sizing: border-box;
+}
+
+#container{
+    width: 970px;
+    border: 1px solid black;
+    margin: auto;
+
+}
+
+#head{
+    background: darkgray;
+    padding: 15px
+
+}
+
+#content{
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+.leftBlock{
+    background: #cccccc;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 23%;
+    padding-right: 23%;
+    width: 70%;
+    float: left;
+
+}
+
+.rightBlock{
+    background: #ddccb1;
+    padding: 15px;
+    width: 30%;
+    float: right;
+}
+
+
+#footer {
+    margin-top: 15px;
+    background: aqua;
+    padding: 15px;
+}
+
+
+.regFormItem{
+    border: 3px seashell dashed;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.regFormItemLabel{
+    margin-top: 5px;
+}
+
+.regButton{
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.logButton{
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.entranceForm{
+    border: 3px seashell dashed;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.logFormItemLabel{
+    margin-top: 5px;
+}
+
